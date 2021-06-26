@@ -13,11 +13,11 @@ end )
 
 `build.setttings` example
 ```lua
-settings = 
+settings =
 {
-	plugins = 
+	plugins =
 	{
-		"plugin.simDemoMode" = { publisherId="com.solar2d" },
+		["plugin.simDemoMode"] = { publisherId="com.solar2d" },
 	}
 }
 ```
